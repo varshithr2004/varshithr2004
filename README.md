@@ -4,10 +4,11 @@
 
 ---
 
-### 🚀 About Me    
-- 🌱 I’m learning **Java, DSA**  
-- 📝 I write about **AI, Web Dev, and Cloud**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/varshithr27)
+### 🚀 About Me
+- 🌱 I’m currently enhancing my skills in Java, Python and Data Structures & Algorithms to build efficient and scalable solutions  
+- 💻 Passionate about Web Development, AI, and Cloud Computing, creating projects that solve real-world problems  
+- 🤝 Enthusiastic about collaboration, open-source contributions, and learning cutting-edge technologies  
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/varshithr27) | [Twitter](https://twitter.com/RameshVars69342)
 
 ---
 
