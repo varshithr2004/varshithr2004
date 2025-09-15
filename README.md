@@ -49,14 +49,6 @@
 
 ---
 
-### 🏆 Achievements & Certifications  
-- ☁️ **IBM Cloud Computing Certification**  
-- ☁️ **Oracle Cloud Infrastructure Certification**  
-- 🎓 **Python Certificate from NativeVA**  
-- 🎓 **Tailwind CSS Course Completion**  
-
----
-
 ### 🌐 Connect with me  
 
 <p align="left">
