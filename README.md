@@ -4,14 +4,14 @@
 
 ---
 
-I’m passionate about coding, exploring emerging technologies, and building meaningful projects. 
+I’m passionate about coding, exploring emerging technologies, and building meaningful projects.
 This is where I share my projects, showcase what I’m learning, and contribute to the open-source community.  
 
 ---
 ### 🚀 About Me
-- 🌱 I’m currently enhancing my skills in Java, Python and Data Structures & Algorithms to build efficient and scalable solutions  
-- 💻 Passionate about Web Development, AI, and Cloud Computing, creating projects that solve real-world problems  
-- 🤝 Enthusiastic about collaboration, open-source contributions, and learning cutting-edge technologies  
+- 🌱 I’m currently enhancing my skills in Java, Python and Data Structures & Algorithms to build efficient and scalable solutions.
+- 💻 Passionate about Data Analyst, Web Development & Artificial Intelligence by creating projects that solve real-world problems.
+- 🤝 Enthusiastic about collaboration, hardwork, open-source contributions, and learning cutting-edge technologies.
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/varshithr27) | [Twitter](https://twitter.com/RameshVars69342)
 
 ---
