@@ -4,11 +4,10 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **Real-Time Sports Analytics System**  
-- 🌱 I’m learning **Java, DSA, and Post-Quantum Cryptography concepts**  
-- 📝 I write about **AI, Web Dev, and Cloud** on my [Blog](https://your-blog-link.com)  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://your-portfolio-link.com)  
+### 🚀 About Me    
+- 🌱 I’m learning **Java, DSA**  
+- 📝 I write about **AI, Web Dev, and Cloud**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/varshithr27)
 
 ---
 
@@ -29,9 +28,8 @@
 
 ### 📌 Pinned Projects  
 
-- [**CargoTrack: Cargo Booking and Management System**](https://github.com/yourusername/CargoTrack)  
-- [**Climate Weather Prediction**](https://github.com/yourusername/ClimateWeatherPrediction)  
-- [**Real-Time Sports Analytics System**](https://github.com/yourusername/SportsAnalytics)  
+- [**CargoTrack: Cargo Booking and Management System**](https://github.com/varshithr2004/CargoTrack)  
+- [**Climate Weather Prediction**](https://github.com/varshithr2004/ClimateWeatherPrediction)
 
 ---
 
@@ -62,8 +60,8 @@
 ### 🌐 Connect with me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/varshithr27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:varshithram727@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
