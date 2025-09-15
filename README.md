@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">HEY THERE...! 👋, I'm Varshith</h1>
-<h3 align="center">B.Tech AI & Data Science Student | Aspiring Web Developer</h3>
+<h3 align="center">B.Tech AI & Data Science Student | Aspiring Web Developer | Data Analyst</h3>
 
 ---
 
