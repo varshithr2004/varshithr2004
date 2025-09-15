@@ -1,15 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">HEY THERE...! 👋, I'm Varshith</h1>
-<h3 align="center">B.Tech AI & Data Science Student | Aspiring Web Developer | Cloud Certified</h3>
+<h3 align="center">B.Tech AI & Data Science Student | Aspiring Web Developer</h3>
 
 ---
 
-Hi there! 👋
-
-I’m Varshith, passionate about coding, exploring emerging technologies, and building meaningful projects. 
+I’m passionate about coding, exploring emerging technologies, and building meaningful projects. 
 This is where I share my projects, showcase what I’m learning, and contribute to the open-source community.  
-
-
 
 ---
 ### 🚀 About Me
@@ -25,6 +21,7 @@ This is where I share my projects, showcase what I’m learning, and contribute 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk" />
+  <img src="https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3" />
