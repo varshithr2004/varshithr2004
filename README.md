@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Varshith</h1>
+<h1 align="center">HEY THERE...! 👋, I'm Varshith</h1>
 <h3 align="center">B.Tech AI & Data Science Student | Aspiring Web Developer | Cloud Certified</h3>
 
 ---
