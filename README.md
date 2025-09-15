@@ -48,6 +48,12 @@
 </p>
 
 ---
+### 📚 Currently Learning 
+- 🖥️  Advanced Java – building robust back-end systems
+- 📊  Data Structures & Algorithms (DSA) – improving problem-solving and coding efficiency
+- 🌐  Modern Front-End Development – Tailwind CSS, responsive design & UX best practices
+- ☁️  Cloud & DevOps Basics – deploying and managing apps on cloud platforms
+---
 
 ### 🌐 Connect with me  
 
