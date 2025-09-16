@@ -41,12 +41,13 @@ This is where I share my projects, showcase what I’m learning, and contribute 
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshithr2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center" style="display: flex; justify-content: space-around;">
+
+  [![GitHub Streak](https://github-readme-streak-stats-wine-sigma.vercel.app?user=varshithr2004&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varshithr2004&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshithr2004&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
